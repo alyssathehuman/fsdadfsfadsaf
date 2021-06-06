@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@alyssathehuman 
+alyssathehuman
+/
+fsdadfsfadsaf
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+fsdadfsfadsaf/thing.json
+@alyssathehuman
+alyssathehuman Update thing.json
+Latest commit d08cf15 11 minutes ago
+ History
+ 1 contributor
+258 lines (258 sloc)  7.15 KB
+  
 [
   {
     "Name": "Regulus Arcturus Black",
@@ -169,78 +200,78 @@
   },
   {
     "Name": "Lord Voldemort",
-    "description": "WHo was the antagonist of the series who murdered many"
+    "description": "The antagonist of the series who murdered many"
   },
   {
     "Name": "Rita Skeeter",
-    "description": "Who was a a reporter at the Daily Prophet and is an unregistered Animagus"
+    "description": "Reporter at the Daily Prophet and is an unregistered Animagus"
   },
   {
     "Name": "Severus Snape",
-    "description": "Who was the head of the Slytherin house and a spy for Dumbledore"
+    "description": "Head of the Slytherin house and a spy for Dumbledore"
   },
   {
     "Name": "Nymphadora Tonks",
-    "description": "Who was an Auror and metamorphagus who marries Lupin"
+    "description": "Auror and metamorphagus who marries Lupin"
   },
   {
     "Name": "Dolores Janes Umbridge",
-    "description": "Who was Senior undersecretary to the Ministry of Magic and teaches at Hogwarts for a year"
+    "description": "Senior undersecretary to the Ministry of Magic and teaches at Hogwarts for a year"
   },
   {
     "Name": "Arthur Weasley",
-    "description": "Who was the father of the Weasleys and is very interested in how muggles live"
+    "description": "Father of the Weasleys and is very interested in how muggles live"
   },
   {
     "Name": "Bill Weasley",
-    "description": "Who was one of the Weasley sons and bit by a werewolf"
+    "description": "One of the Weasley sons and bit by a werewolf"
   },
   {
     "Name": "Charlie Weasley",
-    "description": "Who worked with dragons in Romania"
+    "description": "Works with dragons in Romania"
   },
   {
     "Name": "Fred and George Weasley",
-    "description": "Who were the identical twins and own Weasley's Wizard Wheezes"
+    "description": "Identical twins and own Weasley's Wizard Wheezes"
   },
   {
     "Name": "Grawp",
-    "description": "Who was the giant-half brother of Hagrid"
+    "description": "Giant-half brother of Hagrid"
   },
   {
     "Name": "Ginny Weasley",
-    "description": "Who was possessed by Voldemort and opened the Chamber of Secrets"
+    "description": "Possessed by Voldemort and opened the Chamber of Secrets"
   },
   {
     "Name": "Molly Weasley",
-    "description": "Who was the wife of Arthur and kills Bellatrix"
+    "description": "Wife of Arthur and kills Bellatrix"
   },
   {
     "Name": "Percy Weasley",
-    "description": "Who was the Weasley prefect son who ended up working at the Ministry"
+    "description": "Weasley prefect son who ended up working at the Ministry"
   },
   {
     "Name": "Ron Weasley",
-    "description": "Who was Harry's best friend and scared of spiders"
+    "description": "Harry's best friend and scared of spiders"
   },
   {
     "Name": "Dobby",
-    "description": "Who was a house elf and friend of Harry"
+    "description": "House elf and friend of Harry"
   },
   {
     "Name": "Fluffy",
-    "description": "Who was the three-headed dog belonging to Rubeus Hagrid"
+    "description": "Three-headed dog belonging to Rubeus Hagrid"
   },
   {
     "Name": "Hedwig",
-    "description": "Who was Harry's owl"
+    "description": "Harry's owl"
   },
   {
     "Name": "Moaning Myrtle",
-    "description": "Who was a Ghost at Hogwarts and killed by a basilisk"
+    "description": "Ghost at Hogwarts and killed by a basilisk"
   },
   {
     "Name": "Aragog",
-    "description": "Who was the Acromantula belonging to Rubeus Hagrid"
+    "description": "Acromantula belonging to Rubeus Hagrid"
   }
 ]
