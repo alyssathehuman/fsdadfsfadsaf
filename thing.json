@@ -1,7 +1,7 @@
 [
   {
     "Name": "Regulus Arcturus Black",
-    "description": "a Death Eater and Sirius Black's brother"
+    "description": "Brother of Sirius Black and used to be a Death Eater"
   },
   {
     "Name": "Sirius Black",
@@ -9,35 +9,35 @@
   },
   {
     "Name": "Lavender Brown",
-    "description": "a Gryffindor student who dated Ron and was killed by a werewolf"
+    "description": "Gryffindor student who dated Ron and was killed by a werewolf"
   },
   {
     "Name": "Cho Chang",
-    "description": "a Ravenclaw student who dated Cedric Diggory and Harry Potter"
+    "description": "Ravenclaw student who dated Cedric Diggory and Harry Potter"
   },
   {
     "Name": "Vincent Crabbe Sr.",
-    "description": "a Death Eater who escaped Azkaban and Crabbe's father"
+    "description": "Father of Crabbe and death-eater who escaped Azkaban"
   },
   {
     "Name": "Vincent Crabbe",
-    "description": "a Slytherin student who was best friends with Goyle and followed Draco"
+    "description": "Slytherin student who was best friends with Goyle and followed Draco"
   },
   {
     "Name": "Barty Crouch Sr.",
-    "description": "a Head of the department of Internation Magical Cooperation that was killed by his son"
+    "description": "Head of the department of Internation Magical Cooperation and was killed by his son"
   },
   {
     "Name": "Barty Crouch Jr.",
-    "description": "a Death Eater who impersonated Alastor Moody"
+    "description": "Death Eater who impersonated Alastor Moody."
   },
   {
     "Name": "Fleur Delacour",
-    "description": "a Beauxbatons student who participated in the Triwizard tournament and married Bill Weasley"
+    "description": "Participated in the Triwizard tournament and married Bill Weasley."
   },
   {
     "Name": "Cedric Diggory",
-    "description": "a Hufflepuff student in the Triwizard tournament that got killed by Voldemort."
+    "description": "Participated in the Triwizard tournament and got killed by Voldemort."
   },
   {
     "Name": "Alberforth Dumbledore",
@@ -45,15 +45,15 @@
   },
   {
     "Name": "Albus Dumbledore",
-    "description": "the Headmaster of Hogwarts"
+    "description": "Headmaster of Hogwarts"
   },
   {
     "Name": "Dudley Dursley",
-    "description": "the muggle son of Vernon and Petunia"
+    "description": "Muggle son of Vernon and Petunia and cousin of Harry"
   },
   {
     "Name": "Petunia Dursley",
-    "description": "Harry's aunt and Lily's sister"
+    "description": "Harry's aunt and sister of Lily"
   },
   {
     "Name": "Vernon Dursley",
@@ -61,23 +61,23 @@
   },
   {
     "Name": "Argus Filch",
-    "description": "the Squib caretaker of Hogwarts"
+    "description": "Squib caretaker of Hogwards"
   },
   {
     "Name": "Seamus Finnigan",
-    "description": "Harry's friend and a member of Dumbledore's army"
+    "description": "Harry's friend and member of Dumbledore's army"
   },
   {
     "Name": "Nicolas Flamel",
-    "description": "the Creator of the Philosopher's Stone"
+    "description": "Creator of the Philosopher's Stone"
   },
   {
     "Name": "Cornelius Fudge",
-    "description": "the Minister of Magic that was forced to resign"
+    "description": "Minister of Magic that was forced to resign"
   },
   {
     "Name": "Goyle Sr.",
-    "description": "a Death Eater and father of Gregory Goyle"
+    "description": "Death Eater and father of Gregory Goyle"
   },
   {
     "Name": "Gregory Goyle",
@@ -85,15 +85,15 @@
   },
   {
     "Name": "Hermione Granger",
-    "description": "the best student in the school and one of Harry's best friends"
+    "description": "Top of the class and one of Harry's best friends"
   },
   {
     "Name": "Rubeus Hagrid",
-    "description": "the Half-giant who teaches Care of Magical Creatures"
+    "description": "Half-giant who teaches Care of Magical Creatures"
   },
   {
     "Name": "Igor Karkaroff",
-    "description": "the Highmaster of Durmstrang and reformed death-eater"
+    "description": "Highmaster of Durmstrang and reformed death-eater"
   },
   {
     "Name": "Viktor Krum",
@@ -105,71 +105,71 @@
   },
   {
     "Name": "Alice Longbottom",
-    "description": "the mother of Neville who was tortured by Bellatrix"
+    "description": "Mother of Neville who was tortured by Bellatrix"
   },
   {
     "Name": "Frank Longbottom",
-    "description": "the father of Neville who was tortured by Bellatrix"
+    "description": "Father of Neville who was tortured by Bellatrix"
   },
   {
     "Name": "Neville Longbottom",
-    "description": "the forgetful friend of Harry's whose parents were in the Order of the Phoenix"
+    "description": "A forgetful friend of Harry's whose parents were in the Order of the Phoenix"
   },
   {
     "Name": "Luna Lovegood",
-    "description": "the Ravenclaw student whose father was the editor of the Quibbler"
+    "description": "Ravenclaw student whose father was the editor of the Quibbler"
   },
   {
     "Name": "Xenophilius Lovegood",
-    "description": "the father of Luna and editor of The Quibbler"
+    "description": "Father of Luna and editor of The Quibbler"
   },
   {
     "Name": "Remus Lupin",
-    "description": "the Defense Against the Dark Arts teacher who was one of James' friends that was secretly a werewolf"
+    "description": "A Defense Against the Dark Arts teacher who was one of James' friends and was secretly a werewolf"
   },
   {
     "Name": "Draco Malfoy",
-    "description": "the Slytherin student who despised Harry and became Death Eater"
+    "description": "Slytherin student who despises Harry and becomes a Death Eater"
   },
   {
     "Name": "Lucius Malfoy",
-    "description": "the father of Draco and an influential Death-Eater"
+    "description": "Father of Draco and influential Death-Eater"
   },
   {
     "Name": "Narcissa Malfoy",
-    "description": "the mother of Draco and sister of Bellatrix"
+    "description": "Mother of Draco and sister of Bellatrix"
   },
   {
     "Name": "Olympe Maxime",
-    "description": "the half-giantess and headmistress of Beauxbatons"
+    "description": "Half-giantess and headmistress of Beauxbatons"
   },
   {
     "Name": "Minerva McGonagall",
-    "description": "the professor of Transfiguration and head of Gryffindor"
+    "description": "Professor of Transfiguration and head of Gryffindor"
   },
   {
     "Name": "Mad-Eye Moody",
-    "description": "the retired auror and member of the Order of the Phoenix"
+    "description": "Retired auror and member of the order of the Phoenix"
   },
   {
     "Name": "Peter Pettigrew",
-    "description": "the man who betrayed Harry's parents and could transform into a rat"
+    "description": "Betrays Harry's parents and is a rat Animagus"
   },
   {
     "Name": "Harry Potter",
-    "description": "the boy who lived"
+    "description": "The boy who lived"
   },
   {
     "Name": "James Potter",
-    "description": "also known as \"Prongs\" and could turn into a stag"
+    "description": "Also known as \"Prongs\" and can turn into a stag"
   },
   {
     "Name": "Lily Potter",
-    "description": "a former friend of Severus Snape"
+    "description": "Former friend of Severus Snape"
   },
   {
     "Name": "Quirinus Quirrell",
-    "description": "possessed by Voldemort during the first book"
+    "description": "Possessed by Voldemort during the first book"
   },
   {
     "Name": "Tom Riddle Sr.",
@@ -181,11 +181,11 @@
   },
   {
     "Name": "Lord Voldemort",
-    "description": "the antagonist of the series who murdered many"
+    "description": "The antagonist of the series who murdered many"
   },
   {
     "Name": "Rita Skeeter",
-    "description": "a reporter at the Daily Prophet that was an unregistered Animagus"
+    "description": "Reporter at the Daily Prophet and is an unregistered Animagus"
   },
   {
     "Name": "Severus Snape",
@@ -193,47 +193,55 @@
   },
   {
     "Name": "Nymphadora Tonks",
-    "description": "an Auror and metamorphagus who married Lupin"
+    "description": "Auror and metamorphagus who marries Lupin"
   },
   {
     "Name": "Dolores Janes Umbridge",
-    "description": "Senior undersecretary to the Ministry of Magic and taught at Hogwarts for a year"
+    "description": "Senior undersecretary to the Ministry of Magic and teaches at Hogwarts for a year"
   },
   {
     "Name": "Arthur Weasley",
-    "description": "the father of the Weasleys and was very interested in how muggles lived"
+    "description": "Father of the Weasleys and is very interested in how muggles live"
   },
   {
     "Name": "Bill Weasley",
-    "description": "a Weasley son who married Fleur"
+    "description": "One of the Weasley sons and bit by a werewolf"
   },
   {
     "Name": "Charlie Weasley",
-    "description": "the Weasley son who worked with dragons in Romania"
+    "description": "Works with dragons in Romania"
   },
   {
     "Name": "Fred and George Weasley",
-    "description": "the pair of identical twins who owned Weasley's Wizard Wheezes"
+    "description": "Identical twins and own Weasley's Wizard Wheezes"
   },
   {
     "Name": "Grawp",
-    "description": "the giant half-brother of Hagrid"
+    "description": "Giant-half brother of Hagrid"
   },
   {
     "Name": "Ginny Weasley",
-    "description": "possessed by Voldemort and opened the Chamber of Secrets"
+    "description": "Possessed by Voldemort and opened the Chamber of Secrets"
   },
   {
     "Name": "Molly Weasley",
-    "description": "the wife of Arthur and killed Bellatrix"
+    "description": "Wife of Arthur and kills Bellatrix"
   },
   {
     "Name": "Percy Weasley",
-    "description": "the Weasley prefect son who ended up working at the Ministry"
+    "description": "Weasley prefect son who ended up working at the Ministry"
   },
   {
     "Name": "Ron Weasley",
-    "description": "one of Harry's best friends who was scared of spiders"
+    "description": "Harry's best friend and scared of spiders"
+  },
+  {
+    "Name": "Dobby",
+    "description": "House elf and friend of Harry"
+  },
+  {
+    "Name": "Fluffy",
+    "description": "Three-headed dog belonging to Rubeus Hagrid"
   },
   {
     "Name": "Hedwig",
@@ -241,10 +249,10 @@
   },
   {
     "Name": "Moaning Myrtle",
-    "description": "the ghost at Hogwarts that was killed by a basilisk"
+    "description": "Ghost at Hogwarts and killed by a basilisk"
   },
   {
     "Name": "Aragog",
-    "description": "the Acromantula belonging to Rubeus Hagrid"
+    "description": "Acromantula belonging to Rubeus Hagrid"
   }
 ]
